@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 #encoding: UTF-8
 #
-# Coded by @ajax_request
+# Coded by @ajaxr3quest
 #
 from scapy.all import *
 import sys
